@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c47a3da-0e93-4a3d-9759-a95d76b55583" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai ta.html" afterDir="false" />
+    <list default="true" id="1c47a3da-0e93-4a3d-9759-a95d76b55583" name="Default Changelist" comment="leducquan">
+      <change afterPath="$PROJECT_DIR$/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapvenha1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\WebstormProjects\t2009M wed" />
       <recent name="C:\Users\DELL\WebstormProjects\t2009M wed\media" />
       <recent name="C:\Users\DELL\WebstormProjects\t2009M wed\imgs" />
     </key>
@@ -75,7 +77,16 @@
       <workItem from="1602125008288" duration="6961000" />
       <workItem from="1602229422210" duration="18000" />
       <workItem from="1602229454516" duration="1273000" />
+      <workItem from="1602292696248" duration="1278000" />
     </task>
+    <task id="LOCAL-00001" summary="leducquan">
+      <created>1602292776486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602292776487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +102,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leducquan" />
+    <option name="LAST_COMMIT_MESSAGE" value="leducquan" />
   </component>
   <component name="WindowStateProjectService">
     <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602129268291">
@@ -101,6 +117,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="278" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602125965398" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602292798821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602292798821" />
     <state x="388" y="180" key="run.anything.popup" timestamp="1602127950989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
