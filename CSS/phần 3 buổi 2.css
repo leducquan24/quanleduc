@@ -1,0 +1,25 @@
+body{
+    background-color: #f2f2f2;
+    background-image:  url("../imgs/ail.png" );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: /*(10,60,50);*0-255*/*/
+    font-size: 20px;
+    line-height: 30px;
+}
+p{
+    color: #343434;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: SansSerif;
+    font-weight: bold;/* thin light norman medium semi-bold extro-bold*/
+    text-align: center;
+    text-decoration: underline;// gach chan;
+    background-color:  #f2f2f2;// phong mau
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
