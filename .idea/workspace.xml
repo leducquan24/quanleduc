@@ -20,33 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c47a3da-0e93-4a3d-9759-a95d76b55583" name="Default Changelist" comment="leducquan">
-      <change afterPath="$PROJECT_DIR$/CSS/csslab3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/phần 3 buổi 2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/s3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài làm vui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài mới buổi 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/CV Cookery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/ail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/anh quân.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/diep.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/huyenhoa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/huyenhoa2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/ki nhong 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/ki nhong 2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/ki nhong 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/marvel2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdhjasf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kli.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leducquan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phần 2 buổi 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thong tin cá nhân.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/s4l4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh quan ao 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh quan ao 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh quan ao 4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh quan ao 5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh quan ao 6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/anh quan ao1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/all.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/alll.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/hj.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/sfa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/csslab3.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/csslab3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/s3.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/s3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi3.html" beforeDir="false" afterPath="$PROJECT_DIR$/buoi3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/120894328_3455389097878229_2152251691913267337_n (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CV Cookery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/ail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/ki nhong 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/marvel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab s3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab s3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +106,9 @@
       <workItem from="1602590239948" duration="613000" />
       <workItem from="1602663884767" duration="613000" />
       <workItem from="1602681601971" duration="4037000" />
-      <workItem from="1602725112183" duration="1701000" />
+      <workItem from="1602725112183" duration="8629000" />
+      <workItem from="1602733789167" duration="243000" />
+      <workItem from="1602734040860" duration="4203000" />
     </task>
     <task id="LOCAL-00001" summary="leducquan">
       <created>1602292776486</created>
@@ -151,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602726211411</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leducquan">
+      <created>1602726836412</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602726836412</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,22 +179,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602129268291" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602557290240">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602732013315">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602557290240" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602732013315" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1602726222404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602726222404" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602733951310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602733951310" />
     <state x="278" y="57" key="SettingsEditor" timestamp="1602125965398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="278" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602125965398" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602726224763">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602726848047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602726224763" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602726848047" />
     <state x="94" y="94" width="1349" height="637" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1602300937103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -202,9 +207,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="388" y="180" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602127950989" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602304141886">
+    <state x="431" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1602733888692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602304141886" />
+    <state x="431" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602733888692" />
   </component>
 </project>

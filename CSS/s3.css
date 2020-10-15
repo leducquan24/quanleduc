@@ -37,7 +37,7 @@ div{
      */
     box-sizing: border-box;
     text-align: center;
-    float: right;
+    float: left;
 }
 img{
     float: left;
@@ -55,4 +55,74 @@ div img{
     transform: translate(100px,-200px);
     /*transform: rotate(360deg);*/
     /*transition: scale(1.5);*/
+}
+div #sp_tille{
+    color: #608812;
+}
+.block{
+    animation: block_animation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes block_animation {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+.wave {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.wave span{
+    float: left;
+    width: 30px;
+    background-color: #608812;
+    height: 30px;
+    animation: wave;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+}
+.wave .w1{
+    animation-delay: 0s;
+}
+.wave .w2{
+    animation-delay: 0.2s;
+}
+
+    @keyframes wave {
+        from{
+            height: 30px;
+        }
+        to{
+            height: 100px;
+        }
+    }
+
+.rec{
+    float: left;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 100%;
+    animation: traffic_light;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+}
+@keyframes traffic_light {
+    0%{
+        background-color: red;
+    }
+    28.33%{
+        background-color: green;
+    }
+    95%{
+        background-color: yellow;
+    }
+    100%{
+        background-color: red;
+    }
 }
