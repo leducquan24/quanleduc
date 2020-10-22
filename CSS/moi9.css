@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    /* 100-thin 300-light 400-normal 500-medium 600-semi-bold 700-bold 800-extra-bold 900-black */
+    font-family: 'Roboto', sans-serif;
+    color: #232323;
+}
+img{
+    max-width: 100%;
+    height: 750px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    float: none;
+}
+.content{
+    float: left;
+    width: 66.67%;
+    padding-right: 15px;
+}
+.sidebar{
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+}
+/* xong layout */
+.header{
+    background-color: white;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 30px 0;
+}
+.logo{
+    float: left;
+    width: 50%;
+}
+.top-links{
+    float: right;
+    width: 50%;
+}
+.top-links li{
+    float: right;
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 17px;
+}
+.nav{
+    background-color: #ffffff;
+    padding: 30px 0;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 40px;
+}
+.menu .last-item{
+    float: right;
+    margin-right: 0;
+}
+.main{
+    padding-top: 30px;
+}
+.body-content{
+    background-color: white;
+    padding: 80px;
+    float: left;
+    width: 100%;
+}
+.block{
+    background-color: white;
+    height: 220px;
+    padding-top: 30px;
+    padding-right: 35px;
+    padding-left: 35px;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+.black-block{
+    background-color: #232323;
+    width: 100%;
+    height: 400px;
+    color: white;
+}
+.khoi1{
+    background-color: #f2f2f2;
+    height: 60px;
+    padding-top: 20px;
+    padding-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-right: 200px;
+    width: 315px;
+    color: #aaaaaa;
+    text-align: center;
+}
+.khoi2{
+    background-color: #f2f2f2;
+    height: 60px;
+    padding-top: 20px;
+    padding-right:170px;
+    margin-bottom: 25px;
+    width: 315px;
+    color: #aaaaaa;
+    text-align: center;
+}
+.khoi3{
+    background-color: red;
+    height: 60px;
+    padding-top: 20px;
+    width: 315px;
+    text-align: center;
+}
+.khoi4{
+    background-color: white;
+    padding-top: 30px;
+    padding-right:170px;
+    height: 100px;
+    width: 385px;
+    color: #aaaaaa;
+    margin-top: 100px;
+
+}
+.icon{
+    width: 1px;
+    height: 1px;
+    float: left;
+    margin-right: 50px;
+    font-size: 20px;
+
+}
