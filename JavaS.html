@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JVS DOM</title>
+</head>
+<body>
+    <h1 id="head1">Hello</h1>
+   <img id="im1" src="imgs/huyenhoa.jpg">
+    <script type="text/javascript">
+        var h1style = {
+            color : "red",
+            fontSize : "40px",
+            background : "orange"
+        }
+        function changeText() {
+            // chuyen cai chu Hello -> Good moning
+            var he1 = document.getElementById("head1")//tao do tuong
+            he1.innerText = "Good moning";
+            he1.style.color = "red";
+            he1.style.fontSize = "40px";//font size -> fontsize
+        }
+        setTimeout(changeText,3000);
+        function Anhienanh(){
+            var im=document.getElementById("im1");
+            im.src="imgs/ki nhong 2.jpg"
+            if (im.style.display == "nome"){
+                im.style.display = "block";
+            }else {
+                im.style.display = "nome";
+            }
+        }
+        setInterval(Anhienanh,200);
+        function Naplogo(){
+            var lg = document.getElementById("logo");
+            var img1 ="<img id=\"im1\" src=\"imgs/ki%20nhong %201.jpg\">"
+            lg.innerHTML = img1;
+        }
+    </script>
+</body>
+</html>

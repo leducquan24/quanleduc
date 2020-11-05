@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mege Menu</title>
+</head>
+<body>
+    <ul class="menu">
+        <li class="item">Home</li>
+        <li class="item"> onmouseenter="menu(this)"
+            <a class="-anchor">Product</a>
+            <div class="submenu">
+                xin chao day la menu
+            </div>
+        </li>
+        <li class="item">
+            <a class="-anchor">Category</a>
+            <div class="submenu">
+                xin chao day là submenu
+            </div>
+        </li>
+    </ul>
+<script type="text/javascript">
+    function menu(){
+        //tra ve 1 mang cac doi tuong class item
+        var items = document.getElementsByClassName("item");
+        for (var i=0;i<item.length;i++){
+            items[i].classList.remove("active");
+        }
+        e.classList.add()
+    }
+</script>
+</body>
+</html>

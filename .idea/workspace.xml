@@ -20,51 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c47a3da-0e93-4a3d-9759-a95d76b55583" name="Default Changelist" comment="leducquan">
-      <change afterPath="$PROJECT_DIR$/CSS/all (1).css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/buoi6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/clmm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/cssbai5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/fdh.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/lab s5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/lab s6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/làm nhóm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/moi9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/sfvc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alilioa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clmm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/anhquangtri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/b01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/email.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/quannam1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/quannam2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab s6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/làm lại bài 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/làm nhóm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/JVS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/buoi 8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lab s13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/s12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/session 11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buoi 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/dfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/s13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dome menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/ao ninja go.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab s13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/làm nhóm/CSS/SERvecies.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/làm nhóm/Services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/làm nhóm/demo Java scirt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s12.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/s4l4.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/s4l4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdhjasf.html" beforeDir="false" afterPath="$PROJECT_DIR$/jdhjasf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs7.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +49,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -148,7 +124,14 @@
       <workItem from="1603117749815" duration="2437000" />
       <workItem from="1603155342107" duration="13530000" />
       <workItem from="1603286133482" duration="1702000" />
-      <workItem from="1603329765076" duration="12052000" />
+      <workItem from="1603329765076" duration="12797000" />
+      <workItem from="1603502594776" duration="4951000" />
+      <workItem from="1603507702366" duration="585000" />
+      <workItem from="1603937593749" duration="2667000" />
+      <workItem from="1604107492884" duration="4903000" />
+      <workItem from="1604378205186" duration="8000" />
+      <workItem from="1604539956156" duration="8210000" />
+      <workItem from="1604584703878" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="leducquan">
       <created>1602292776486</created>
@@ -206,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603162945665</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="leducquan">
+      <created>1603341867365</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603341867365</updated>
+    </task>
+    <task id="LOCAL-00010" summary="leducquan">
+      <created>1603341993187</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603341993187</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,14 +226,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="leducquan" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="571" y="202" key="#Web_Browsers" timestamp="1602861276461">
+    <state x="571" y="202" key="#Web_Browsers" timestamp="1604546183022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="571" y="202" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1602861276461" />
-    <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602129268291">
+    <state x="571" y="202" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1604546183022" />
+    <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604541607923">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602129268291" />
+    <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604541607923" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602732013315">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -245,18 +242,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602726222404" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602733951310">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603507857694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602733951310" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603507857694" />
     <state x="278" y="57" key="SettingsEditor" timestamp="1602125965398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="278" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602125965398" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603162951574">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603341998952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603162951574" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603341998952" />
     <state x="94" y="94" width="1349" height="637" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1602300937103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
