@@ -20,26 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c47a3da-0e93-4a3d-9759-a95d76b55583" name="Default Changelist" comment="leducquan">
-      <change afterPath="$PROJECT_DIR$/CSS/JVS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/buoi 8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/lab s13.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/s12.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/session 11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buoi 8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/dfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butra/buttra.2/js/s13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dome menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/ao ninja go.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab s13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/làm nhóm/CSS/SERvecies.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/làm nhóm/Services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/làm nhóm/demo Java scirt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/thi html.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/cloud.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi html.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs7.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitapvenha1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài làm vui.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab s13.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab s13.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +36,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -131,7 +118,19 @@
       <workItem from="1604107492884" duration="4903000" />
       <workItem from="1604378205186" duration="8000" />
       <workItem from="1604539956156" duration="8210000" />
-      <workItem from="1604584703878" duration="620000" />
+      <workItem from="1604584703878" duration="2117000" />
+      <workItem from="1604587207816" duration="1503000" />
+      <workItem from="1604725430809" duration="1025000" />
+      <workItem from="1604749502991" duration="38000" />
+      <workItem from="1604972686079" duration="612000" />
+      <workItem from="1605008981759" duration="26000" />
+      <workItem from="1605015508896" duration="14000" />
+      <workItem from="1605081944163" duration="1203000" />
+      <workItem from="1605201724623" duration="611000" />
+      <workItem from="1605373718038" duration="599000" />
+      <workItem from="1605529956841" duration="46000" />
+      <workItem from="1605708266102" duration="82000" />
+      <workItem from="1606360670206" duration="6409000" />
     </task>
     <task id="LOCAL-00001" summary="leducquan">
       <created>1602292776486</created>
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603341993187</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="leducquan">
+      <created>1604585439273</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604585439273</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,10 +236,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="571" y="202" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1604546183022" />
-    <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604541607923">
+    <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606362779873">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604541607923" />
+    <state x="486" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606362779873" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602732013315">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -250,10 +256,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="278" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602125965398" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603341998952">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606367160193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603341998952" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606367160193" />
     <state x="94" y="94" width="1349" height="637" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1602300937103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
